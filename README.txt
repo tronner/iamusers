@@ -13,7 +13,7 @@ Tested with python 3.9 on MacOs; I expect python version 3.6 and later will work
 
 Install dependencies using:
 
-python3 -m pip -r requirements.txt
+python3 -m pip install -r requirements.txt
 
 
 Running
